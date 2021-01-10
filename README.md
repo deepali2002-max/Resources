@@ -3,4 +3,4 @@
 </p> 
 
 
-# Resources
+# CodeChef MUST Chapter
