@@ -4,7 +4,7 @@
 
 
 # CodeChef MUST Chapter
-## content
+## Content
 | S.No. |             |
 | ----- | ----------- |
 | 1. | [Data Structures](https://github.com/deepali2002-max/Resources/edit/test/README.md) |
