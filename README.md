@@ -15,21 +15,34 @@
 ## Competitive Programming Platforms
 | S.No. | Platforms |
 | ----- | --------- |
-| 1. | CodeChef |
-| 2. | Codeforces |
-| 3. | Hackerearth |
-| 4. | Topcoder |
-| 5. |Hackerrank |
-| 6. | Leetcode |
-| 7. | SPOJ |
-| 8. | GeeksforGeeks |
-| 9. | Project Euler |
+| 1. | CodeChef(https://www.codechef.com/) |
+| 2. | Codeforces(https://codeforces.com/) |
+| 3. | Hackerearth(https://www.hackerearth.com/) |
+| 4. | Topcoder(https://www.topcoder.com/) |
+| 5. |Hackerrank(https://www.hackerrank.com/) |
+| 6. | Leetcode(https://leetcode.com/) |
+| 7. | SPOJ(https://leetcode.com/) |
+| 8. | GeeksforGeeks(https://leetcode.com/) |
+| 9. | Project Euler(https://projecteuler.net/) |
 ## Text Editors To Write And Run Your Code
 | S.No. | Editors |
 | ----- | ----- |
 |1.|VS Code|
 |2.|Atom|
 |3.|Sublime Text|
+### [Learning sprint](https://github.com/CodeChefMUST/Resources/tree/main/Learning%20Sprint)
+
+[Learning sprint 1](https://github.com/CodeChefMUST/Resources/tree/main/Learning%20Sprint/Learning%20Sprint%201)
+
+--[Absolute beginner Track](https://github.com/CodeChefMUST/Resources/blob/main/Learning%20Sprint/Learning%20Sprint%201/Absolute%20Beginner%20Track.md) 
+
+--[Beginner Track](https://github.com/CodeChefMUST/Resources/blob/main/Learning%20Sprint/Learning%20Sprint%201/Beginner%20Track.md)
+            
+--[Intermediate Track](https://github.com/CodeChefMUST/Resources/blob/main/Learning%20Sprint/Learning%20Sprint%201/Intermediate%20Track.md)
+            
+--[Advanced Track](https://github.com/CodeChefMUST/Resources/blob/main/Learning%20Sprint/Learning%20Sprint%201/Advanced%20Track.md)
+ 
+ [Learning sprint 2]
 ## Moderators
 [Ananya Nagar](https://github.com/AnanyaNagar)<br/>
 [Ruchi Jain](https://github.com/ruchijain4)<br/>
