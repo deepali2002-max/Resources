@@ -32,8 +32,8 @@
 |3.|Sublime Text|
 ## Moderators
 Ananya Nagar - https://github.com/AnanyaNagar<br/>
-Ruchi Jain   - <br/>
+Ruchi Jain   - https://github.com/ruchijain4<br/>
 Meenal       - https://github.com/meenaljain0303<br/>
-Ishwa        - <br/>
+Ishwa        - https://github.com/ishwa02<br/>
 Deepali      - https://github.com/deepali2002-max<br/>
 
