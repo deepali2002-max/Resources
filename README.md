@@ -15,15 +15,15 @@
 ## Competitive Programming Platforms
 | S.No. | Platforms |
 | ----- | --------- |
-| 1. | CodeChef(https://www.codechef.com/) |
-| 2. | Codeforces(https://codeforces.com/) |
-| 3. | Hackerearth(https://www.hackerearth.com/) |
-| 4. | Topcoder(https://www.topcoder.com/) |
-| 5. |Hackerrank(https://www.hackerrank.com/) |
-| 6. | Leetcode(https://leetcode.com/) |
-| 7. | SPOJ(https://leetcode.com/) |
-| 8. | GeeksforGeeks(https://leetcode.com/) |
-| 9. | Project Euler(https://projecteuler.net/) |
+| 1. | [CodeChef](https://www.codechef.com/) |
+| 2. | [Codeforces](https://codeforces.com/) |
+| 3. | [Hackerearth](https://www.hackerearth.com/) |
+| 4. | [Topcoder](https://www.topcoder.com/) |
+| 5. | [Hackerrank](https://www.hackerrank.com/) |
+| 6. | [Leetcode](https://leetcode.com/) |
+| 7. | [SPOJ](https://leetcode.com/) |
+| 8. | [GeeksforGeeks](https://leetcode.com/) |
+| 9. | [Project Euler](https://projecteuler.net/) |
 ## Text Editors To Write And Run Your Code
 | S.No. | Editors |
 | ----- | ----- |
