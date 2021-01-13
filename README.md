@@ -31,7 +31,7 @@
 |2.|Atom|
 |3.|Sublime Text|
 ## Moderators
-Ananya Nagar - (https://github.com/AnanyaNagar)
+Ananya Nagar - https://github.com/AnanyaNagar<br/>
 Ruchi Jain   - ()
 Meenal       - (https://github.com/meenaljain0303)
 Ishwa        - ()
