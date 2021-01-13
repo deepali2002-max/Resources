@@ -30,3 +30,10 @@
 |1.|VS Code|
 |2.|Atom|
 |3.|Sublime Text|
+## Moderators
+Ananya Nagar - (https://github.com/AnanyaNagar)
+Ruchi Jain   - ()
+Meenal       - (https://github.com/meenaljain0303)
+Ishwa        - ()
+Deepali      - ()
+
